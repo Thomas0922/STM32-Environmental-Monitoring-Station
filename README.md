@@ -420,15 +420,15 @@ stm32-env-monitor/
 
 ## 📅 開發時程
 
-### Week 1：基礎建設（已完成 ✅）
+### Week 1：基礎建設（進行中 🔄）
 - [x] LED 閃爍測試
-- [x] UART printf 重定向
-- [x] I2C BME280 驅動
-- [x] 基本感測器讀取
+- [ ] UART printf 重定向
+- [ ] I2C BME280 驅動
+- [ ] 基本感測器讀取
 
 ### Week 2：多任務架構（進行中 🔄）
-- [x] FreeRTOS 整合
-- [x] 任務劃分與調度
+- [ ] FreeRTOS 整合
+- [ ] 任務劃分與調度
 - [ ] OLED 顯示功能
 - [ ] SD 卡 FatFs 檔案系統
 
